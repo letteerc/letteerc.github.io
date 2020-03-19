@@ -8,6 +8,7 @@ body{
 	color: #363A3A;
   font-family: Arial, Helvetica, sans-serif;
 }
+S
 
 h1{
 	font-size: 50px;
@@ -46,8 +47,6 @@ footer{
 	padding-top: 20px;
 	font-size: 12px;
 	text-align: center;
-	background-color: #BFDDEF;
-	border-top: 2px solid #7C7676;
 }
 
 #logolinks{
